@@ -2,7 +2,7 @@
 This is a demo for basic uses of Github...
 
 # Teacher
-Sharada Khaora
+Sharada Khapra
 
 # Student
 Aditya Kumar
